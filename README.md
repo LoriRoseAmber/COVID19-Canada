@@ -6,7 +6,7 @@ Canadian COVID-19 Dashboard
 
 ## Data Sources
 
-All data is compiled by __Amber Analytics__ from the following public sources:
+All data is curated by __Amber Analytics__ from the following public sources:
 
 ### Fatality Data
 
@@ -69,5 +69,4 @@ For Ontario, the data is pulled daily and directly from each of the individual P
 
 
 ****
-
 Contact: lori@amberanalytics.ca
