@@ -65,4 +65,6 @@ For Ontario, the data is pulled daily from each of the individual Public Health 
 #### [Saskatchewan](https://www.saskatchewan.ca/government/health-care-administration-and-provider-resources/treatment-procedures-and-guidelines/emerging-public-health-issues/2019-novel-coronavirus/cases-and-risk-of-covid-19-in-saskatchewan)
 #### [Yukon](https://yukon.ca/covid-19)
 
+****
+
 Contact: lori@amberanalytics.ca
