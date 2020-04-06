@@ -1,13 +1,15 @@
 # COVID19-Canada
 Daily Canadian COVID-19 Data
 
-### Dashboard
+## Dashboard
 [Tableau Public](https://public.tableau.com/profile/amberanalytics#!/vizhome/Covid-19-CANADA/Main)
 
-### Data Sources
+## Data Sources
 
 #### [Public Health Agency of Canada - Fatalities](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html)
 [Downloadable .csv](https://health-infobase.canada.ca/src/data/covidLive/covid19.csv)
+
+### Provinces
 
 #### [British Columbia](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/case-counts-press-statements)
 #### [Nova Scotia](https://novascotia.ca/coronavirus/)
