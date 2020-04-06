@@ -6,8 +6,10 @@ Daily Canadian COVID-19 Data
 
 ## Data Sources
 
-#### [Public Health Agency of Canada](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html)
-- [Fatalities Downloadable .csv](https://health-infobase.canada.ca/src/data/covidLive/covid19.csv)
+#### Fatality Data
+
+[Public Health Agency of Canada](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html)
+- [Downloadable .csv](https://health-infobase.canada.ca/src/data/covidLive/covid19.csv)
 
 ### Provinces
 
