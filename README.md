@@ -2,7 +2,7 @@
 Daily Canadian COVID-19 Data
 
 ### Dashboard
-https://public.tableau.com/profile/amberanalytics#!/vizhome/Covid-19-CANADA/Main
+[Tableau Public](https://public.tableau.com/profile/amberanalytics#!/vizhome/Covid-19-CANADA/Main)
 
 ### Data Sources
 #### Ontario
