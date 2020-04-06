@@ -17,14 +17,14 @@ All data is compiled by __Amber Analytics__ from the following public sources:
 
 For Ontario, the data is pulled daily and directly from each of the individual Public Health Units' website since there is a delay in Ontario Public Health reporting these numbers. From [OPH site](https://www.ontario.ca/page/2019-novel-coronavirus): "In the event of a discrepancy between iPHIS [The integrated Public Health Information System] cases and cases publicly reported by PHUs, data reported by PHUs should be considered the most up to date." For all other provinces the data are pulled daily from the provincial websites.
 
-#### [British Columbia](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/case-counts-press-statements)
-#### [Nova Scotia](https://novascotia.ca/coronavirus/)
-#### [New Brunswick](https://www2.gnb.ca/content/gnb/en/departments/ocmoh/cdc/content/respiratory_diseases/coronavirus.html)
 #### [Alberta](https://www.alberta.ca/covid-19-alberta-data.aspx)
+#### [British Columbia](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/case-counts-press-statements)
 #### [Manitoba](https://www.gov.mb.ca/covid19/)
+#### [New Brunswick](https://www2.gnb.ca/content/gnb/en/departments/ocmoh/cdc/content/respiratory_diseases/coronavirus.html)
 #### [Newfoundland](https://www.gov.nl.ca/covid-19/pandemic-update/)
-#### [Nunavut](https://www.gov.nu.ca/health)
 #### [Northwest Territories](https://www.hss.gov.nt.ca/en/services/coronavirus-disease-covid-19)
+#### [Nova Scotia](https://novascotia.ca/coronavirus/)
+#### [Nunavut](https://www.gov.nu.ca/health)
 #### [Ontario](https://www.ontario.ca/page/2019-novel-coronavirus)
 
 - [Algoma Public Health Unit](http://www.algomapublichealth.com/disease-and-illness/infectious-diseases/novel-coronavirus/current-status-covid-19/)
@@ -66,6 +66,7 @@ For Ontario, the data is pulled daily and directly from each of the individual P
 #### [Quebec](https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/situation-coronavirus-quebec/#c47900)
 #### [Saskatchewan](https://www.saskatchewan.ca/government/health-care-administration-and-provider-resources/treatment-procedures-and-guidelines/emerging-public-health-issues/2019-novel-coronavirus/cases-and-risk-of-covid-19-in-saskatchewan)
 #### [Yukon](https://yukon.ca/covid-19)
+
 
 ****
 
