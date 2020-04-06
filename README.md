@@ -6,12 +6,14 @@ Daily Canadian COVID-19 Data
 
 ## Data Sources
 
-#### Fatality Data
+### Fatality Data
 
 [Public Health Agency of Canada](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html)
 - [Downloadable .csv](https://health-infobase.canada.ca/src/data/covidLive/covid19.csv)
 
 ### Provinces
+
+For Ontario, the data is pulled daily from each of the individual Public Health Units' website since there is a delay in Ontario Public Health reporting these numbers. From [OPH site](https://www.ontario.ca/page/2019-novel-coronavirus): "In the event of a discrepancy between iPHIS cases and cases publicly reported by PHUs, data reported by PHUs should be considered the most up to date." For all other provinces the data are pulled daily from the provincial websites.
 
 #### [British Columbia](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/case-counts-press-statements)
 #### [Nova Scotia](https://novascotia.ca/coronavirus/)
