@@ -6,6 +6,8 @@ Canadian COVID-19 Dashboard
 
 ## Data Sources
 
+All data is compiled by __Amber Analytics__ from the following sources:
+
 ### Fatality Data
 
 [Public Health Agency of Canada](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html)
