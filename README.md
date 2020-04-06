@@ -13,7 +13,7 @@ All data is compiled by __Amber Analytics__ from the following sources:
 [Public Health Agency of Canada](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html)
 - [Downloadable .csv](https://health-infobase.canada.ca/src/data/covidLive/covid19.csv)
 
-### Provinces
+### Case Counts
 
 For Ontario, the data is pulled daily and directly from each of the individual Public Health Units' website since there is a delay in Ontario Public Health reporting these numbers. From [OPH site](https://www.ontario.ca/page/2019-novel-coronavirus): "In the event of a discrepancy between iPHIS [The integrated Public Health Information System] cases and cases publicly reported by PHUs, data reported by PHUs should be considered the most up to date." For all other provinces the data are pulled daily from the provincial websites.
 
