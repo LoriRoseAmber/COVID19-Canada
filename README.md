@@ -39,7 +39,7 @@ Daily Canadian COVID-19 Data
 
 [Middlesex-London Health Unit](https://www.healthunit.com/novel-coronavirus)
 
-[Niagara Region Public Health Department](https://www.niagarahealth.on.ca/site/covid19casereporting)
+[Niagara Region Public Health Department](https://www.niagararegion.ca/health/covid-19/default.aspx)
 
 [North Bay Parry Sound District Health Unit](https://www.myhealthunit.ca/en/health-topics/coronavirus.asp)
 
