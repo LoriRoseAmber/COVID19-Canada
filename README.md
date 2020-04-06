@@ -19,7 +19,7 @@ For Ontario, the data is pulled daily and directly from each of the individual P
 
 #### [Alberta](https://www.alberta.ca/covid-19-alberta-data.aspx)
 #### [British Columbia](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/case-counts-press-statements)
-#### [Manitoba](https://www.gov.mb.ca/covid19/)
+#### [Manitoba](https://www.gov.mb.ca/covid19/updates/index.html)
 #### [New Brunswick](https://www2.gnb.ca/content/gnb/en/departments/ocmoh/cdc/content/respiratory_diseases/coronavirus.html)
 #### [Newfoundland](https://www.gov.nl.ca/covid-19/pandemic-update/)
 #### [Northwest Territories](https://www.hss.gov.nt.ca/en/services/coronavirus-disease-covid-19)
