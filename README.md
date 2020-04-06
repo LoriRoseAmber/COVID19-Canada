@@ -1,5 +1,5 @@
 # COVID19-Canada
-Daily Canadian COVID-19 Data
+Canadian COVID-19 Dashboard
 
 ## Dashboard
 [Tableau Public](https://public.tableau.com/profile/amberanalytics#!/vizhome/Covid-19-CANADA/Main)
