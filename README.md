@@ -64,3 +64,5 @@ For Ontario, the data is pulled daily from each of the individual Public Health 
 #### [Quebec](https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/situation-coronavirus-quebec/#c47900)
 #### [Saskatchewan](https://www.saskatchewan.ca/government/health-care-administration-and-provider-resources/treatment-procedures-and-guidelines/emerging-public-health-issues/2019-novel-coronavirus/cases-and-risk-of-covid-19-in-saskatchewan)
 #### [Yukon](https://yukon.ca/covid-19)
+
+Contact: lori@amberanalytics.ca
