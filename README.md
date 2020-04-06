@@ -5,7 +5,18 @@ Daily Canadian COVID-19 Data
 [Tableau Public](https://public.tableau.com/profile/amberanalytics#!/vizhome/Covid-19-CANADA/Main)
 
 ### Data Sources
-#### Ontario
+
+#### [Public Health Agency of Canada]
+
+#### [British Columbia](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/case-counts-press-statements)
+#### [Nova Scotia](https://novascotia.ca/coronavirus/)
+#### [New Brunswick](https://www2.gnb.ca/content/gnb/en/departments/ocmoh/cdc/content/respiratory_diseases/coronavirus.html)
+#### [Alberta](https://www.alberta.ca/covid-19-alberta-data.aspx)
+#### [Manitoba](https://www.gov.mb.ca/covid19/)
+#### [Newfoundland](https://www.gov.nl.ca/covid-19/pandemic-update/)
+#### [Nunavut](https://www.gov.nu.ca/health)
+#### [Northwest Territories](https://www.hss.gov.nt.ca/en/services/coronavirus-disease-covid-19)
+#### [Ontario](https://www.ontario.ca/page/2019-novel-coronavirus)
 
 - [Algoma Public Health Unit](http://www.algomapublichealth.com/disease-and-illness/infectious-diseases/novel-coronavirus/current-status-covid-19/)
 - [Brant County Health Unit](https://www.bchu.org/ServicesWeProvide/InfectiousDiseases/Pages/coronavirus.aspx)
@@ -42,15 +53,6 @@ Daily Canadian COVID-19 Data
 - [Windsor-Essex County Health Unit](https://www.wechu.org/cv/local-updates)
 - [York Region Public Health Services](https://www.york.ca/wps/portal/yorkhome/health/yr/infectiousdiseasesandprevention/covid19/covid19/!ut/p/z1/tVXLcpswFP2WLlhiXR42SncKcQ0kxm5Sv7TxCJCBxiACsqn79ZVTN9NX7OmksBCS5txz7z3SHCGKloiWbJ-nTOaiZFu1XtHB2icj3_NuIZjY2AUCExKYDobhlYEWzwB45SOA6M_xowdsgz8PHDI3JmD71in-DICezz9HFNEqzhO0sjBLnCTiOrMtptsGjnWWRAPdigCSgY2x4bAjOi5lJTO0OtTrWJSSl1KDg6gf1aKRudw9b2Si4GrkbCszDfJyw2Mlya5J8oazhjesTKqa7xVWCaVBLPZ5Yly9TH7v68_C6XnZFsdKFcQ07YFnuBCAN8Hgf3Cm_RvsGXBrngBnOAJE062Ivh8jKSMLp4jWfMNrXvd2tdrOpKya9xpo0LZtLxUi3fJeLAoN_haSiUai5a9ItFKNOq82em-ixT7nLZqVoi5UJQ__eF4enDI42CUeGcEUPs0c-Dh0bDy4G0_v7o03ZrjQQMf0Vqf0DnRLb3ZL_3_ECXxwDXI0F2toATF9F19bAQ7DbrUPu9U-7Fb7sNt7P3-rOMGlh0H5V_756YkSZfhHl_-irKtTx1cJzXrsjpVhVkxmumIQaHmBBy1fwn9MqmI2K7B10B83Y9mP-mmxvrkO9VWw_3rhR6NDS959A9MZyv0!/dz/d5/L2dBISEvZ0FBIS9nQSEh/)
 
-
-#### [British Columbia](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/case-counts-press-statements)
-#### [Nova Scotia](https://novascotia.ca/coronavirus/)
-#### [New Brunswick](https://www2.gnb.ca/content/gnb/en/departments/ocmoh/cdc/content/respiratory_diseases/coronavirus.html)
-#### [Alberta](https://www.alberta.ca/covid-19-alberta-data.aspx)
-#### [Manitoba](https://www.gov.mb.ca/covid19/)
-#### [Newfoundland](https://www.gov.nl.ca/covid-19/pandemic-update/)
-#### [Nunavut](https://www.gov.nu.ca/health)
-#### [Northwest Territories](https://www.hss.gov.nt.ca/en/services/coronavirus-disease-covid-19)
 #### [Prince Edward Island](https://www.princeedwardisland.ca/en/topic/covid-19)
 #### [Quebec](https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/situation-coronavirus-quebec/#c47900)
 #### [Saskatchewan](https://www.saskatchewan.ca/government/health-care-administration-and-provider-resources/treatment-procedures-and-guidelines/emerging-public-health-issues/2019-novel-coronavirus/cases-and-risk-of-covid-19-in-saskatchewan)
