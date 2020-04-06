@@ -69,5 +69,5 @@ For Ontario, the data is pulled daily and directly from each of the individual P
 
 
 ****
-© 2020 Amber Analytics. [COVID19-Canada](https://github.com/LoriRoseAmber/COVID-19)  
+Credit: © 2020 Amber Analytics. [COVID19-Canada](https://github.com/LoriRoseAmber/COVID-19)  
 Contact: lori@amberanalytics.ca
