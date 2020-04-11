@@ -17,7 +17,7 @@ All data is curated by __Amber Analytics__ from the following public sources:
 
 For Ontario, the data is pulled daily and directly from each of the individual Public Health Units' website since there is a delay in Ontario Ministry Health reporting these numbers. From [OMH site](https://www.ontario.ca/page/2019-novel-coronavirus): "In the event of a discrepancy between iPHIS [The integrated Public Health Information System] cases and cases publicly reported by PHUs, data reported by PHUs should be considered the most up to date." For all other provinces the data are pulled daily from the provincial websites.
 
-#### [Alberta](https://www.alberta.ca/covid-19-alberta-data.aspx)
+#### [Alberta](https://covid19stats.alberta.ca/)
 #### [British Columbia](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/case-counts-press-statements)
 #### [Manitoba](https://www.gov.mb.ca/covid19/updates/index.html)
 #### [New Brunswick](https://www2.gnb.ca/content/gnb/en/departments/ocmoh/cdc/content/respiratory_diseases/coronavirus.html)
@@ -57,7 +57,7 @@ For Ontario, the data is pulled daily and directly from each of the individual P
 - [Sudbury & District Health Unit](https://www.phsd.ca/health-topics-programs/diseases-infections/coronavirus/current-status-covid-19)
 - [Thunder Bay District Health Unit](https://www.tbdhu.com/coronavirus)
 - [Timiskaming Health Unit](https://www.timiskaminghu.com/90484/covid-19)
-- [Toronto Public Health](https://www.toronto.ca/home/covid-19/)
+- [Toronto Public Health](https://www.toronto.ca/home/covid-19/media-room/covid-19-status-of-cases-in-toronto/)
 - [Wellington-Dufferin-Guelph Public Health](https://app.powerbi.com/view?r=eyJrIjoiMDE0OGVmODctYTcxYS00M2RlLTgzODItMjIxYmM1MzY2YjEyIiwidCI6IjA5Mjg0MzdlLTFhZTItNGJhNy1hZmQxLTY5NDhmY2I5MWM0OCJ9)
 - [Windsor-Essex County Health Unit](https://www.wechu.org/cv/local-updates)
 - [York Region Public Health Services](https://www.york.ca/wps/portal/yorkhome/health/yr/infectiousdiseasesandprevention/covid19/covid19/!ut/p/z1/tVXLcpswFP2WLlhiXR42SncKcQ0kxm5Sv7TxCJCBxiACsqn79ZVTN9NX7OmksBCS5txz7z3SHCGKloiWbJ-nTOaiZFu1XtHB2icj3_NuIZjY2AUCExKYDobhlYEWzwB45SOA6M_xowdsgz8PHDI3JmD71in-DICezz9HFNEqzhO0sjBLnCTiOrMtptsGjnWWRAPdigCSgY2x4bAjOi5lJTO0OtTrWJSSl1KDg6gf1aKRudw9b2Si4GrkbCszDfJyw2Mlya5J8oazhjesTKqa7xVWCaVBLPZ5Yly9TH7v68_C6XnZFsdKFcQ07YFnuBCAN8Hgf3Cm_RvsGXBrngBnOAJE062Ivh8jKSMLp4jWfMNrXvd2tdrOpKya9xpo0LZtLxUi3fJeLAoN_haSiUai5a9ItFKNOq82em-ixT7nLZqVoi5UJQ__eF4enDI42CUeGcEUPs0c-Dh0bDy4G0_v7o03ZrjQQMf0Vqf0DnRLb3ZL_3_ECXxwDXI0F2toATF9F19bAQ7DbrUPu9U-7Fb7sNt7P3-rOMGlh0H5V_756YkSZfhHl_-irKtTx1cJzXrsjpVhVkxmumIQaHmBBy1fwn9MqmI2K7B10B83Y9mP-mmxvrkO9VWw_3rhR6NDS959A9MZyv0!/dz/d5/L2dBISEvZ0FBIS9nQSEh/)
