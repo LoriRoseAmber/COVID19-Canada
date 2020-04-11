@@ -24,7 +24,7 @@ For Ontario, the data is pulled daily and directly from each of the individual P
 #### [Newfoundland](https://covid-19-newfoundland-and-labrador-gnl.hub.arcgis.com/)
 #### [Northwest Territories](https://www.hss.gov.nt.ca/en/services/coronavirus-disease-covid-19)
 #### [Nova Scotia](https://novascotia.ca/coronavirus/data/)
-#### [Nunavut](https://www.gov.nu.ca/health)
+#### [Nunavut](https://gov.nu.ca/health/information/covid-19-novel-coronavirus)
 #### [Ontario](https://www.ontario.ca/page/2019-novel-coronavirus)
 
 - [Algoma Public Health Unit](http://www.algomapublichealth.com/disease-and-illness/infectious-diseases/novel-coronavirus/current-status-covid-19/)
