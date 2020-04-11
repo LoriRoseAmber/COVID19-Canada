@@ -23,7 +23,7 @@ For Ontario, the data is pulled daily and directly from each of the individual P
 #### [New Brunswick](https://www2.gnb.ca/content/gnb/en/departments/ocmoh/cdc/content/respiratory_diseases/coronavirus.html)
 #### [Newfoundland](https://covid-19-newfoundland-and-labrador-gnl.hub.arcgis.com/)
 #### [Northwest Territories](https://www.hss.gov.nt.ca/en/services/coronavirus-disease-covid-19)
-#### [Nova Scotia](https://novascotia.ca/coronavirus/)
+#### [Nova Scotia](https://novascotia.ca/coronavirus/data/)
 #### [Nunavut](https://www.gov.nu.ca/health)
 #### [Ontario](https://www.ontario.ca/page/2019-novel-coronavirus)
 
