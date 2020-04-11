@@ -39,7 +39,7 @@ For Ontario, the data is pulled daily and directly from each of the individual P
 - [Hamilton Public Health Services](https://www.hamilton.ca/coronavirus/status-cases)
 - [Hastings and Prince Edward Counties Health Unit](https://hpepublichealth.ca/the-novel-coronavirus-2019ncov/)
 - [Huron Perth District Health Unit](https://www.hpph.ca/en/health-matters/covid-19-in-huron-and-perth.aspx)
-- [Kingston, Frontenac and Lennox & Addington Public Health](https://www.kflaph.ca/en/healthy-living/novel-coronavirus.aspx)
+- [Kingston, Frontenac and Lennox & Addington Public Health](https://www.kflaph.ca/en/healthy-living/status-of-cases-in-kfla.aspx)
 - [Lambton Public Health](https://lambtonpublichealth.ca/2019-novel-coronavirus)
 - [Leeds, Grenville and Lanark District Health Unit](https://healthunit.org/coronavirus/)
 - [Middlesex-London Health Unit](https://www.healthunit.com/novel-coronavirus)
