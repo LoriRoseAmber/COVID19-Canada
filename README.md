@@ -43,7 +43,7 @@ For Ontario, the data is pulled daily and directly from each of the individual P
 - [Lambton Public Health](https://lambtonpublichealth.ca/2019-novel-coronavirus)
 - [Leeds, Grenville and Lanark District Health Unit](https://healthunit.org/coronavirus/)
 - [Middlesex-London Health Unit](https://www.healthunit.com/novel-coronavirus)
-- [Niagara Region Public Health Department](https://www.niagararegion.ca/health/covid-19/default.aspx)
+- [Niagara Region Public Health Department](https://www.niagararegion.ca/health/covid-19/statistics.aspx)
 - [North Bay Parry Sound District Health Unit](https://www.myhealthunit.ca/en/health-topics/coronavirus.asp)
 - [Northwestern Health Unit](https://www.nwhu.on.ca/covid19/Pages/home.aspx)
 - [Ottawa Public Health](https://www.ottawapublichealth.ca/en/reports-research-and-statistics/la-maladie-coronavirus-covid-19.aspx)
