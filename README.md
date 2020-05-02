@@ -60,9 +60,9 @@ For Ontario, the data is pulled daily and directly from each of the individual P
 #### [Saskatchewan](https://www.saskatchewan.ca/government/health-care-administration-and-provider-resources/treatment-procedures-and-guidelines/emerging-public-health-issues/2019-novel-coronavirus/cases-and-risk-of-covid-19-in-saskatchewan)
 #### [Yukon](https://yukon.ca/covid-19)
 
-****
 
-Global data: [CSSE at Johns Hopkins University.](https://github.com/CSSEGISandData/COVID-19)
+
+Global Data Source: [CSSE at Johns Hopkins University.](https://github.com/CSSEGISandData/COVID-19)
 
 ****
 © 2020 Amber Analytics. [COVID19-Canada](https://github.com/LoriRoseAmber/COVID-19)  
